@@ -1,5 +1,5 @@
-## Hi there, I'm a Software Engineer & Founder of Cosmic Forge 👋
-
+## <h1 align="center">Hi there, I'm a Software Engineer & Founder of Cosmic Forge 👋</h1>
+<h3 align="center">Building Cloud-Native Solutions • Automating Infrastructure • Solving Business Problems</h3>
 I bridge the gap between telecommunications insights and modern software development. I build resilient, cross-platform mobile applications engineered to handle real-world network constraints and infrastructure challenges.
 
 *   📡 **Telecom Edge:** Leveraging background knowledge in telecom networks to architect high-availability systems, optimize data sync, and handle network instability.
@@ -8,8 +8,8 @@ I bridge the gap between telecommunications insights and modern software develop
 *   🤖 **Interests:** Generative AI automation, localized enterprise solutions, and open-source ecosystems.
 
 *Building software with a telecom mindset: resilient, scalable, and always connected (even when offline).*
-<h1 align="center">Hi 👋, I'm Myo Aung</h1>
-<h3 align="center">Building Cloud-Native Solutions • Automating Infrastructure • Solving Business Problems</h3>
+Hi 👋, I'm Myo Aung
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myoaung&label=Profile%20views&color=0e75b6&style=flat" alt="myoaung" /> </p>
 
