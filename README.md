@@ -1,7 +1,7 @@
 <!-- ================= HERO BANNER ================= -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="banner" />
+  <img src="assets/_banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Myo Aung</h1>
