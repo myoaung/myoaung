@@ -1,84 +1,96 @@
-# 🚀 Offline-First • AI Agents • Enterprise SaaS
+<!-- ================= HERO BANNER ================= -->
+
+<p align="center">
+  <img src="assets/banner.png" alt="banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Myo Aung</h1>
 
 <h3 align="center">
-Software Engineer • Enterprise Software Architect • Founder of Cosmic Forge
+🚀 Offline-First Architect • 🤖 AI Agent Engineer • 🏢 Enterprise SaaS Builder
 </h3>
 
 <p align="center">
-Building <b>Offline-First Enterprise Systems</b>, <b>AI Agent Platforms</b>, and <b>Cloud-Native SaaS Solutions</b> for real-world environments.
+Building resilient systems for unstable infrastructure + AI-powered automation platforms.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 Who Am I
 
-I am a Software Engineer focused on building **resilient enterprise systems** that work even in unstable infrastructure environments.
+I design and build **mission-critical software systems** that operate reliably in real-world conditions:
 
-I specialize in combining:
+- 🌐 Unstable internet environments
+- ⚡ Power outages
+- 📶 Low-connectivity regions
+- 🏢 Large-scale enterprise operations
 
-- Offline-first architecture
-- Scalable SaaS systems
-- AI agent automation
-- Cloud-native backend design
-
-### Core Roles
-
-- 🏢 Enterprise Software Architect
-- 🤖 AI Agent Developer
-- 📱 Flutter Mobile Engineer
-- ☁️ Cloud & Backend Engineer
-- 🧠 MCP & Claude Code Builder
-- 🛒 POS & ERP System Designer
+I combine:
+> Offline-First Engineering + AI Agents + Cloud-Native Architecture
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Core Focus Areas
 
-## 🛒 RetailOS (Flagship Project)
+- 🏢 Enterprise SaaS Platforms
+- 🛒 POS & ERP Systems (Retail / Pharmacy / Wholesale)
+- 🎓 School Management Systems (LMS)
+- 🤖 AI Agents & MCP Ecosystem
+- 📱 Flutter Cross-Platform Apps
+- ☁️ Cloud-Native Backend Systems
 
-Multi-Tenant Retail & ERP SaaS Platform
+---
 
-**Modules:**
+# 🏗 Featured Projects
+
+## 🛒 RetailOS (Flagship)
+
+<p align="center">
+  <img src="assets/projects/retailos.png" width="700"/>
+</p>
+
+**Enterprise Multi-Tenant POS & ERP Platform**
 
 - Grocery POS
 - Pharmacy System
-- Construction Materials
 - Wholesale ERP
-- Inventory Management
-- Accounting System
-- CRM
-- Offline Synchronization Engine
+- Inventory & Accounting
+- CRM System
+- Offline Sync Engine
+- Multi-Branch Support
 
 ---
 
 ## 🎓 School LMS
 
-Complete Education Management Platform
+<p align="center">
+  <img src="assets/projects/lms.png" width="700"/>
+</p>
 
-**Features:**
+**Modern Education Management Platform**
 
-- Student Management System
-- Teacher Portal
+- Student Information System
+- Teacher Dashboard
 - Parent Portal
-- RBAC (Role-Based Access Control)
 - Attendance System
 - Exams & Assignments
-- Finance Module
+- RBAC Security
 - AI Learning Assistant
 
 ---
 
-## 🤖 AI Engineering Stack
+## 🤖 AI Agent Toolkit
 
-Exploring next-generation AI systems:
+<p align="center">
+  <img src="assets/projects/ai-agent.png" width="700"/>
+</p>
 
-- Claude Code
-- MCP (Model Context Protocol)
+**AI Automation & MCP Ecosystem**
+
+- Claude Code Integration
+- MCP Servers
 - AI Agents
-- Multi-Agent Systems
-- Prompt Engineering
+- Prompt Engineering Toolkit
 - RAG Pipelines
 - Workflow Automation
 
@@ -86,103 +98,62 @@ Exploring next-generation AI systems:
 
 # 🧠 Architecture Philosophy
 
+<p align="center">
+  <img src="assets/projects/architecture.png" width="700"/>
+</p>
+
 I build systems based on real-world constraints:
 
-- ✔ Offline-First Design
-- ✔ Domain-Driven Design (DDD)
-- ✔ Clean Architecture
-- ✔ Event-Driven Systems
-- ✔ Modular Monoliths
-- ✔ Scalable Microservices
-- ✔ High Availability Systems
-- ✔ Fault Tolerance
+✔ Offline-First Design  
+✔ Domain-Driven Design (DDD)  
+✔ Clean Architecture  
+✔ Event-Driven Systems  
+✔ Modular Monoliths  
+✔ Microservices (when needed)  
+✔ Fault Tolerant Systems  
+✔ Scalable SaaS Platforms  
 
 ---
 
 # 🛠 Tech Stack
 
 ## 📱 Mobile
-- Flutter
-- Dart
-- Kotlin
-- Android
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 
 ## 🖥 Backend
-- Node.js
-- NestJS
-- Laravel
-- Supabase
-
-## 🗄 Database
-- PostgreSQL
-- SQLite
-- Drift ORM
-- MariaDB
-- MySQL
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 
 ## ☁️ Cloud & DevOps
-- Docker
-- Kubernetes
-- AWS
-- Linux
-- Nginx
-- GitHub Actions
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-## 🤖 AI Engineering
-- Claude Code
-- OpenAI APIs
-- MCP
-- AI Agents
-- RAG Systems
-- Prompt Engineering
+## 🤖 AI Stack
+![Claude](https://img.shields.io/badge/Claude%20Code-AI-blueviolet)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-black)
+![MCP](https://img.shields.io/badge/MCP-Protocol-orange)
 
 ---
 
 # 🏆 Certifications
 
 <p align="center">
-
-<a href="https://verify.skilljar.com/c/hnttm3pihbd5">
-  <img src="assets/certifications/claude-101.png" width="420"/>
-</a>
-
-<a href="https://verify.skilljar.com/c/57iw49c3pbhg">
-  <img src="assets/certifications/claude-code-101.png" width="420"/>
-</a>
-
+  <img src="assets/certifications/claude-101.png" width="45%" />
+  <img src="assets/certifications/claude-code-101.png" width="45%" />
 </p>
 
 <p align="center">
-
-<a href="https://verify.skilljar.com/c/8oqrryfmwznv">
-  <img src="assets/certifications/agent-skills-intro.png" width="420"/>
-</a>
-
-<a href="https://verify.skilljar.com/c/wog8ywjw8sxo">
-  <img src="assets/certifications/claude-platform-101.png" width="420"/>
-</a>
-
+  <img src="assets/certifications/agent-skills-intro.png" width="45%" />
+  <img src="assets/certifications/claude-platform-101.png" width="45%" />
 </p>
 
 ---
 
-# ⭐ Featured Projects
-
-## 🛒 RetailOS
-Enterprise-grade offline-first POS & ERP system for emerging markets.
-
-## 🎓 School LMS
-Full-featured education platform with AI learning assistant.
-
-## 🤖 AI Agent Toolkit
-Reusable MCP servers, Claude Skills, and automation pipelines.
-
-## ⚡ Offline Sync Engine
-High-reliability synchronization system for unstable networks.
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -212,12 +183,12 @@ High-reliability synchronization system for unstable networks.
 
 ---
 
-# 💬 Quote
+# 💬 Philosophy
 
-> "Great software isn't measured by the code we write, but by the problems we solve."
+> "Great software is not about code — it is about resilience, impact, and solving real-world constraints."
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+⭐ If you like my work, consider following or starring a repository ⭐
 </p>
