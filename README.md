@@ -16,7 +16,11 @@ Hi 👋, I'm Myo Aung
 - 👨‍💻 All of my projects are available at [www.cosmicforgemm.com](www.cosmicforgemm.com)
 
 - 📫 How to reach me **myoaung21@gmail.com**
-
+certs:
+  claude_101: https://verify.skilljar.com/c/hnttm3pihbd5
+  claude_code_101: https://verify.skilljar.com/c/57iw49c3pbhg
+  agent_skills_intro: https://verify.skilljar.com/c/8oqrryfmwznv
+  Claude Platform 101: https://verify.skilljar.com/c/wog8ywjw8sxo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/myoaung21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/myoaung21/" height="30" width="40" /></a>
