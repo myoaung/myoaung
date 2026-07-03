@@ -1,33 +1,279 @@
-## <h1 align="center">Hi there, I'm a Software Engineer & Founder of Cosmic Forge 👋</h1>
-<h3 align="center">Building Cloud-Native Solutions • Automating Infrastructure • Solving Business Problems</h3>
-I bridge the gap between telecommunications insights and modern software development. I build resilient, cross-platform mobile applications engineered to handle real-world network constraints and infrastructure challenges.
+<!-- ========================================================= -->
+<!--                    GitHub Profile README                  -->
+<!-- ========================================================= -->
 
-*   📡 **Telecom Edge:** Leveraging background knowledge in telecom networks to architect high-availability systems, optimize data sync, and handle network instability.
-*   📐 **Architecture:** Deep focus on **Offline-First** design to guarantee system resilience against power outages and internet disruptions.
-*   🛠️ **Core Tech:** Flutter, Kotlin, Supabase, SQLite / Drift
-*   🤖 **Interests:** Generative AI automation, localized enterprise solutions, and open-source ecosystems.
+<h1 align="center">Hi 👋, I'm Myo Aung</h1>
 
-*Building software with a telecom mindset: resilient, scalable, and always connected (even when offline).*
-Hi 👋, I'm Myo Aung
+<h3 align="center">
+Software Engineer • Enterprise Solution Architect • Founder of Cosmic Forge
+</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myoaung&label=Profile%20views&color=0e75b6&style=flat" alt="myoaung" /> </p>
-
-- 👨‍💻 All of my projects are available at [www.cosmicforgemm.com](www.cosmicforgemm.com)
-
-- 📫 How to reach me **myoaung21@gmail.com**
-certs:
-  claude_101: https://verify.skilljar.com/c/hnttm3pihbd5
-  claude_code_101: https://verify.skilljar.com/c/57iw49c3pbhg
-  agent_skills_intro: https://verify.skilljar.com/c/8oqrryfmwznv
-  Claude Platform 101: https://verify.skilljar.com/c/wog8ywjw8sxo
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/myoaung21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/myoaung21/" height="30" width="40" /></a>
+<p align="center">
+Building <b>Offline-First Enterprise Software</b>, <b>AI Agent Systems</b>, and <b>Cloud-Native SaaS Platforms</b> for real-world businesses.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myoaung&show_icons=true&locale=en" alt="myoaung" /></p>
+# 👨‍💻 About Me
 
+I'm a Software Engineer passionate about solving real business problems through modern software engineering.
+
+My primary focus is building enterprise-grade systems that continue working even under unstable internet connections and power outages. I specialize in designing resilient architectures for emerging markets while leveraging AI to automate workflows and improve productivity.
+
+### My Core Expertise
+
+- 🏢 Enterprise Software Architecture
+- 📱 Offline-First Mobile Applications
+- ☁️ Cloud-Native Backend Systems
+- 🤖 AI Agents & Workflow Automation
+- 🔌 Model Context Protocol (MCP)
+- 🛒 Retail & Pharmacy POS Systems
+- 🏫 Learning Management Systems
+- ⚙️ DevOps & Infrastructure Automation
+
+---
+
+# 🚀 Currently Working On
+
+### 🛒 RetailOS
+
+A Multi-Tenant Retail ERP & POS SaaS Platform supporting:
+
+- Grocery
+- Pharmacy
+- Construction Materials
+- Wholesale
+- Inventory
+- Accounting
+- CRM
+- Offline Synchronization
+
+---
+
+### 🎓 School LMS
+
+Modern Learning Management System featuring
+
+- RBAC
+- Student Information System
+- Attendance
+- Assignments
+- Exams
+- Finance
+- Parent Portal
+- AI-powered Learning Assistant
+
+---
+
+### 🤖 AI Engineering
+
+Currently exploring
+
+- Claude Code
+- AI Agents
+- Multi-Agent Systems
+- MCP Servers
+- AI Skills
+- AI Workflow Automation
+- Prompt Engineering
+- RAG Applications
+
+---
+
+# 🧠 Architecture Philosophy
+
+I strongly believe software should continue working regardless of internet quality.
+
+My engineering philosophy is centered around:
+
+- Offline-First Design
+- Event-Driven Architecture
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Modular Monolith
+- Microservices (when appropriate)
+- High Availability
+- Scalability
+- Maintainability
+
+---
+
+# 🛠 Tech Stack
+
+## Mobile
+
+- Flutter
+- Dart
+- Kotlin
+- Android
+
+## Backend
+
+- Supabase
+- PostgreSQL
+- NestJS
+- Node.js
+- Laravel
+
+## Database
+
+- PostgreSQL
+- SQLite
+- Drift ORM
+- MariaDB
+- MySQL
+
+## Cloud & DevOps
+
+- Docker
+- Kubernetes
+- AWS
+- Nginx
+- Linux
+- GitHub Actions
+
+## AI Engineering
+
+- Claude Code
+- MCP
+- AI Agents
+- Prompt Engineering
+- RAG
+- LLM Integrations
+
+---
+
+# 🏆 Certifications
+
+- ✅ Claude 101
+- ✅ Claude Code 101
+- ✅ Agent Skills Introduction
+- ✅ Claude Platform 101
+
+---
+
+# ⭐ Featured Projects
+
+## 🛒 RetailOS
+
+Offline-First Multi-Tenant POS & ERP
+
+**Features**
+
+- Multi Tenant
+- Inventory
+- Accounting
+- CRM
+- Purchase
+- Sales
+- Offline Synchronization
+- Pharmacy Module
+- Wholesale Module
+
+---
+
+## 🎓 School LMS
+
+Complete School Management Platform
+
+Features include
+
+- Student Management
+- Teacher Portal
+- Parent Portal
+- Finance
+- Attendance
+- Assignment
+- Examination
+- RBAC
+- AI Learning Assistant
+
+---
+
+## 🤖 AI Agent Toolkit
+
+A collection of reusable AI engineering components
+
+- Claude Skills
+- MCP Servers
+- AI Agents
+- Prompt Libraries
+- Automation Workflows
+
+---
+
+# 💡 Interests
+
+- Enterprise Software
+- AI Engineering
+- Agentic AI
+- MCP Ecosystem
+- Flutter
+- Offline Synchronization
+- SaaS Products
+- Open Source
+- Software Architecture
+
+---
+
+# 🌐 Connect With Me
+
+🌍 Website
+
+https://www.cosmicforgemm.com
+
+📧 Email
+
+myoaung21@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/myoaung21
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=myoaung&show_icons=true&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=myoaung&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoaung&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📊 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=myoaung&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 📖 Favorite Quote
+
+> "Great software isn't measured by the code we write, but by the problems we solve."
+
+---
+
+<p align="center">
+
+### Thanks for visiting! ⭐
+
+If you like my work, consider following me or starring one of my repositories.
+
+</p>
