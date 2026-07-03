@@ -143,12 +143,38 @@ My engineering philosophy is centered around:
 
 ---
 
-# 🏆 Certifications
+# 🏆 AI Certifications
 
-- ✅ Claude 101
-- ✅ Claude Code 101
-- ✅ Agent Skills Introduction
-- ✅ Claude Platform 101
+<p align="center">
+  <a href="https://verify.skilljar.com/c/hnttm3pihbd5">
+    <img src="./assets/certifications/claude-101.png" width="420" alt="Claude 101"/>
+  </a>
+
+  <a href="https://verify.skilljar.com/c/57iw49c3pbhg">
+    <img src="./assets/certifications/claude-code-101.png" width="420" alt="Claude Code 101"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://verify.skilljar.com/c/8oqrryfmwznv">
+    <img src="./assets/certifications/agent-skills-intro.png" width="420" alt="Agent Skills Introduction"/>
+  </a>
+
+  <a href="https://verify.skilljar.com/c/wog8ywjw8sxo">
+    <img src="./assets/certifications/claude-platform-101.png" width="420" alt="Claude Platform 101"/>
+  </a>
+</p>
+
+<p align="center">
+
+| Certification | Verify |
+|---------------|--------|
+| 🧠 Claude 101 | <a href="https://verify.skilljar.com/c/hnttm3pihbd5">View Certificate ↗</a> |
+| 💻 Claude Code 101 | <a href="https://verify.skilljar.com/c/57iw49c3pbhg">View Certificate ↗</a> |
+| 🤖 Agent Skills Introduction | <a href="https://verify.skilljar.com/c/8oqrryfmwznv">View Certificate ↗</a> |
+| 🚀 Claude Platform 101 | <a href="https://verify.skilljar.com/c/wog8ywjw8sxo">View Certificate ↗</a> |
+
+</p>
 
 ---
 
